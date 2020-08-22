@@ -48,7 +48,7 @@ Since the project needs to be developed from scratch, i had breakdown the develo
 </ol>
 
 
-<h2> Links to work <h2>
+<h2> Links to work </h2>
 <ul>
 <li><a href="#"> Link for full repository</a></li>
 <li><a href="#">Links for all commits</a></li>
@@ -57,6 +57,7 @@ Since the project needs to be developed from scratch, i had breakdown the develo
 
 <h2> Weekly Reports</h2>
 These are the weekly reports that i had submitted to INCF during GSoC period<br>
+
 [Week 1 & Week 2](https://drive.google.com/file/d/1DKX11fXbYbpREzT8H0AB5Vdq8xSzLO8u/view?usp=sharing)<br>
 [Week 3](https://drive.google.com/file/d/12lr42BS4PyOyBUC1cqbAaYDeUksdllxe/view?usp=sharing)<br>
 [Week 4](https://drive.google.com/file/d/1tuV2kLixLSpDSst-rc-eXj4rhZbz_qRD/view?usp=sharing)<br>
