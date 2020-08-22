@@ -46,14 +46,12 @@ Since the project needs to be developed from scratch, i had breakdown the develo
 </li>
 <br>
 </ul>
-</ol>
-
-
 <h2> Links to work </h2>
 <ul>
 <li><a href="#"> Link for full repository</a></li>
 <li><a href="#">Links for all commits</a></li>
 </ul>
+</ol>
 
 
 <h2> Weekly Reports</h2>
