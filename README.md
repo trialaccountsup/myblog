@@ -72,7 +72,7 @@ These are the weekly reports that i had submitted to INCF during GSoC period<br>
 
 
 <br>
-### Future Work
+<h3> Future Work</h3>
 Since the minimal requirements of this project as outlined in GSoC proposal is completed but there are lot more things that could be implemented and can enhance the system. After GSoC period i am planning to:
 <ul><li>Add explore mode by which user can compare already exisiting features.</li>
 <li>Add a nested result table clicking on any result will take to other result table of similar features</li><li>Other ways of visualization like Network Visualization.</li></ul>
