@@ -40,7 +40,7 @@ Since the project needs to be developed from scratch, i had breakdown the develo
 <ul><li>We are using RestrictePython to run user's code in a restricted environment.</li><li>Allows to import only those modules that are computation specific and does not tries to access/modify system</li>
 <li>Restricted in-built functions like exec, eval that can harm our system.</li>
 <li>Timeout limit added to user's function so that if it falls into infinite loop and exceeds limit we can kill the process and render timeout error. </li>
-</li>
+
 <li>Other than that handled all possible errors like Syntax error, 404 page not found, Timeout error</li>
 </ul>
 
