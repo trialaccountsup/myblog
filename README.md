@@ -41,15 +41,16 @@ Since the project needs to be developed from scratch, i had breakdown the develo
 <li>Restricted in-built functions like exec, eval that can harm our system.</li>
 <li>Timeout limit added to user's function so that if it falls into infinite loop and exceeds limit we can kill the process and render timeout error. </li>
 
-<li>Other than that handled all possible errors like Syntax error, 404 page not found, Timeout error</li>
+<li>Other than that handled all possible errors like Syntax error, 404 page not found, Timeout error
+</li>
+<br>
 </ul>
-
 </ol>
 
 
 ### Links to work
 <ul>
-<li><a href=""> Link for full repository</a></li>
+<li><a href="#"> Link for full repository</a></li>
 <li><a href="#">Links for all commits</a></li>
 </ul>
 
