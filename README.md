@@ -65,13 +65,13 @@ These are the weekly reports that i had submitted to INCF during GSoC period<br>
 <a href="https://drive.google.com/file/d/18O2VJ8uYRXfamjCmKa0Cq0Z6MYyw5nMU/view?usp=sharing">Week 6</a><br>
 <a href="https://drive.google.com/file/d/1ket_4KNNlxDDR6v5ec2s3zPjcN3RSA8B/view?usp=sharing">Week 7</a><br>
 <a href="https://drive.google.com/file/d/179jS-Ztb675IzxVpvI9Y-fvxnvsq-oRC/view?usp=sharing">Week 8</a><br>
-<a href="https://drive.google.com/file/d/1uTio6VrW_wJp66dp83JSSduzNPK8g6T0/view?usp=sharing">Week 9></a><br>
-<a href="https://drive.google.com/file/d/1PAvLqlv8p7_tm2dWcwDtFrH4Fp-rOYxd/view?usp=sharing">Week 10></a><br>
+<a href="https://drive.google.com/file/d/1uTio6VrW_wJp66dp83JSSduzNPK8g6T0/view?usp=sharing">Week 9</a><br>
+<a href="https://drive.google.com/file/d/1PAvLqlv8p7_tm2dWcwDtFrH4Fp-rOYxd/view?usp=sharing">Week 10</a><br>
 <a href="https://drive.google.com/file/d/1PumTCAHoR7FEz21GVpolGOb6o0J14Khd/view?usp=sharing">Week 11</a><br>
 <a href="https://drive.google.com/file/d/10CzCYMVjRRHOa4Khtgkno3oRTgbn06p7/view?usp=sharing">Week 12</a>
 
 
-
+<br>
 ### Future Work
 Since the minimal requirements of this project as outlined in GSoC proposal is completed but there are lot more things that could be implemented and can enhance the system. After GSoC period i am planning to:
 <ul><li>Add explore mode by which user can compare already exisiting features.</li>
