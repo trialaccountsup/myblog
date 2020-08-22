@@ -2,7 +2,7 @@
 # GSoC Final Report
 
 ##### Project : Automated comparison of scientific methods for time series analysis.
-<img src="https://drive.google.com/file/d/1fJMzvWPagxwHc8eVyfAKIkFjQmptze6e/view?usp=sharing">
+<img src="GIF-200821_144005.gif">
 ##### Student : Salman Khan
 ##### Mentors : Ben Fulcher, Oliver Cliff, Joseph Lizier
 
