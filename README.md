@@ -46,12 +46,13 @@ Since the project needs to be developed from scratch, i had breakdown the develo
 </li>
 <br>
 </ul>
+
 <h2> Links to work </h2>
 <ul>
 <li><a href="#"> Link for full repository</a></li>
 <li><a href="#">Links for all commits</a></li>
 </ul>
-</ol>
+
 
 
 <h2> Weekly Reports</h2>
@@ -71,7 +72,7 @@ These are the weekly reports that i had submitted to INCF during GSoC period<br>
 
 
 <br>
-<h3> Future Work</h3>
+<h2> Future Work</h2>
 Since the minimal requirements of this project as outlined in GSoC proposal is completed but there are lot more things that could be implemented and can enhance the system. After GSoC period i am planning to:
 <ul><li>Add explore mode by which user can compare already exisiting features.</li>
 <li>Add a nested result table clicking on any result will take to other result table of similar features</li><li>Other ways of visualization like Network Visualization.</li></ul>
