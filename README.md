@@ -10,7 +10,7 @@
 In this **Google Summer of Code 2020** project i had developed a web-based system that helps the user to compare timeseries analysis method.It takes time-series analysis method as python code from a user, computes it with a diverse time-series dataset and analyzes the relation of the newly developed method with 7700+ features and presents the best matching features as output which can help the user to conclude the similarity
 between new method and pre-existing methods.
 
-<img src="GIF-200821_144005.gif">
+<img src="GIF-200822_154754[1].gif">
 ### What was done and when
 Since the project needs to be developed from scratch, i had breakdown the development in three parts:
 <ol>
@@ -28,9 +28,9 @@ Since the project needs to be developed from scratch, i had breakdown the develo
 <br>
 <ul>
 <li>Development of pages for websites that includes Home, How-it-works, Contact,  Preloader, Result, Syntax error, Timeout Error, 404 Not found. </li>
-<li>Interactive Result table that includes with options to:<ul><li>Toggle to change representation of results.</li><li>Download all results in .csv format</li><li>Toggle button to view table in full size.</li><li>Choose show / hide column from table.</li></ul><img src="GIF-200821_150450.gif"></li>
+<li>Interactive Result table that includes with options to:<ul><li>Toggle to change representation of results.</li><li>Download all results in .csv format</li><li>Toggle button to view table in full size.</li><li>Choose show / hide column from table.</li></ul><img src="GIF-200822_154604[1].gif"></li>
 <li>Visualization of top 12 results with Interactive scatter plots<ul><li>Hover to see data points.</li><li>Zoom each plot or all subplots simultaneously  to understand clearly the data points.</li></ul>
-<img src="GIF-200821_150019.gif"></li> 
+<img src="GIF-200822_154727[1].gif"></li> 
 
 <li>Visualization of top 12 results with correlation heatmap with linkage clustering dendogram.</li>
 
