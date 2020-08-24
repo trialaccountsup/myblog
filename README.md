@@ -49,13 +49,13 @@ Thus, in order to run user's code safely, we:</em><br><br>
 <li>Restricted in-built functions like exec or eval that could be used to harm the system.</li>
 <li>Added a timeout limit so that the system is protected from algorithms falling into an infinite loop. </li><br></ul>
 
-### Link to work
+<h2> Link to work </h2>
 [Link to full repository](https://github.com/NeuralSystemsAndSignals/Comp-Engine-Features)<br>
 [Links for all commits](https://github.com/NeuralSystemsAndSignals/Comp-Engine-Features/commits/master)
 
 <br>
 
-### Weekly Reports
+<h2> Weekly Reports </h2>
 These are the weekly reports that i had submitted to INCF during GSoC period:<br>
 
 <a href="https://drive.google.com/file/d/1DKX11fXbYbpREzT8H0AB5Vdq8xSzLO8u/view?usp=sharing">Week 1 & Week 2</a><br>
@@ -71,8 +71,8 @@ These are the weekly reports that i had submitted to INCF during GSoC period:<br
 <a href="https://drive.google.com/file/d/10CzCYMVjRRHOa4Khtgkno3oRTgbn06p7/view?usp=sharing">Week 12</a><br>
 
 ---
-### Future Work
-Although all the requirements of this project as outlined in the GSoC proposal have been completed, this project represents the important initial steps in the full development of _CompEngine-Features_.
+<h2> Future Work </h2>
+  Although all the requirements of this project as outlined in the GSoC proposal have been completed, this project represents the important initial steps in the full development of _CompEngine-Features_.
 After the official GSoC period, I plan to contribute to this further development by:
 
 * Adding an explore mode by which user can compare already exisiting features.
