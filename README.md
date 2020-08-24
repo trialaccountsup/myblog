@@ -14,6 +14,39 @@ This output helps the user to understand connections between their method and th
 Here is an example of the website functionality I developed from scratch in this GSoC project:
 <img src="GIF-200822_154754.gif">
 
+
+
+### Link to work
+![Link to full repository](https://github.com/NeuralSystemsAndSignals/Comp-Engine-Features)<br>
+![Links for all commits](https://github.com/NeuralSystemsAndSignals/Comp-Engine-Features/commits/master)
+
+<br>
+
+### Weekly Reports
+These are the weekly reports that i had submitted to INCF during GSoC period:<br>
+
+<a href="https://drive.google.com/file/d/1DKX11fXbYbpREzT8H0AB5Vdq8xSzLO8u/view?usp=sharing">Week 1 & Week 2</a><br>
+<a href="https://drive.google.com/file/d/12lr42BS4PyOyBUC1cqbAaYDeUksdllxe/view?usp=sharing">Week 3</a><br>
+<a href="https://drive.google.com/file/d/1tuV2kLixLSpDSst-rc-eXj4rhZbz_qRD/view?usp=sharing">Week 4</a><br>
+<a href="https://drive.google.com/file/d/1GFv2RhH4dg96NdV-CrnO9bd1RFiPVMU-/view?usp=sharing">Week 5</a><br>
+<a href="https://drive.google.com/file/d/18O2VJ8uYRXfamjCmKa0Cq0Z6MYyw5nMU/view?usp=sharing">Week 6</a><br>
+<a href="https://drive.google.com/file/d/1ket_4KNNlxDDR6v5ec2s3zPjcN3RSA8B/view?usp=sharing">Week 7</a><br>
+<a href="https://drive.google.com/file/d/179jS-Ztb675IzxVpvI9Y-fvxnvsq-oRC/view?usp=sharing">Week 8</a><br>
+<a href="https://drive.google.com/file/d/1uTio6VrW_wJp66dp83JSSduzNPK8g6T0/view?usp=sharing">Week 9</a><br>
+<a href="https://drive.google.com/file/d/1PAvLqlv8p7_tm2dWcwDtFrH4Fp-rOYxd/view?usp=sharing">Week 10</a><br>
+<a href="https://drive.google.com/file/d/1PumTCAHoR7FEz21GVpolGOb6o0J14Khd/view?usp=sharing">Week 11</a><br>
+<a href="https://drive.google.com/file/d/10CzCYMVjRRHOa4Khtgkno3oRTgbn06p7/view?usp=sharing">Week 12</a><br>
+
+---
+### Future Work
+  Although all the requirements of this project as outlined in the GSoC proposal have been completed, this project represents the important initial steps in the full development of _CompEngine-Features_.
+After the official GSoC period, I plan to contribute to this further development by:
+
+* Adding an explore mode by which user can compare already exisiting features.
+* Adding a nested result table clicking on any result will take to other result table of similar features
+* Implementing additional visualizations, including a network visualization.
+
+
 ### What was done
 Since the project needs to be developed from scratch, I have broken down the development process into three parts:
 <ol>
@@ -49,13 +82,13 @@ Thus, in order to run user's code safely, we:</em><br><br>
 <li>Restricted in-built functions like exec or eval that could be used to harm the system.</li>
 <li>Added a timeout limit so that the system is protected from algorithms falling into an infinite loop. </li><br></ul>
 
-<h3> Link to work </h3>
+### Link to work
 ![Link to full repository](https://github.com/NeuralSystemsAndSignals/Comp-Engine-Features)<br>
 ![Links for all commits](https://github.com/NeuralSystemsAndSignals/Comp-Engine-Features/commits/master)
 
 <br>
 
-<h3> Weekly Reports </h3>
+### Weekly Reports
 These are the weekly reports that i had submitted to INCF during GSoC period:<br>
 
 <a href="https://drive.google.com/file/d/1DKX11fXbYbpREzT8H0AB5Vdq8xSzLO8u/view?usp=sharing">Week 1 & Week 2</a><br>
@@ -71,7 +104,7 @@ These are the weekly reports that i had submitted to INCF during GSoC period:<br
 <a href="https://drive.google.com/file/d/10CzCYMVjRRHOa4Khtgkno3oRTgbn06p7/view?usp=sharing">Week 12</a><br>
 
 ---
-<h2> Future Work </h2>
+### Future Work
   Although all the requirements of this project as outlined in the GSoC proposal have been completed, this project represents the important initial steps in the full development of _CompEngine-Features_.
 After the official GSoC period, I plan to contribute to this further development by:
 
