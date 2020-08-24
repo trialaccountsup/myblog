@@ -50,7 +50,7 @@ Thus, in order to run user's code safely, we:</em><br><br>
 <li>Added a timeout limit so that the system is protected from algorithms falling into an infinite loop. </li><br></ul>
 
 ### Link to work
-[Link to full repository](https://github.com/NeuralSystemsAndSignals/Comp-Engine-Features)
+[Link to full repository](https://github.com/NeuralSystemsAndSignals/Comp-Engine-Features)<br>
 [Links for all commits](https://github.com/NeuralSystemsAndSignals/Comp-Engine-Features/commits/master)
 
 <br>
