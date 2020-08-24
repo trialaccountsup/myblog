@@ -79,7 +79,8 @@ These are the weekly reports that i had submitted to INCF during GSoC period:<br
 <h3> Future Work </h3>
 Although all the requirements of this project as outlined in the GSoC proposal have been completed, this project represents the important initial steps in the full development of _CompEngine-Features_.
 After the official GSoC period, I plan to contribute to this further development by:
-
-* Adding an explore mode by which user can compare already exisiting features.
-* Adding a nested result table clicking on any result will take to other result table of similar features
-* Implementing additional visualizations, including a network visualization.
+<ul>
+  <li>Adding an explore mode by which user can compare already exisiting features.</li>
+ <li>Adding a nested result table clicking on any result will take to other result table of similar features.</li>
+  <li>Implementing additional visualizations, including a network visualization.</li>
+</ul>
