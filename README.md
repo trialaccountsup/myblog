@@ -49,13 +49,13 @@ Thus, in order to run user's code safely, we:</em><br><br>
 <li>Restricted in-built functions like exec or eval that could be used to harm the system.</li>
 <li>Added a timeout limit so that the system is protected from algorithms falling into an infinite loop. </li><br></ul>
 
-<h2> Link to work </h2>
-[Link to full repository](https://github.com/NeuralSystemsAndSignals/Comp-Engine-Features)<br>
-[Links for all commits](https://github.com/NeuralSystemsAndSignals/Comp-Engine-Features/commits/master)
+<h3> Link to work </h3>
+![Link to full repository](https://github.com/NeuralSystemsAndSignals/Comp-Engine-Features)<br>
+![Links for all commits](https://github.com/NeuralSystemsAndSignals/Comp-Engine-Features/commits/master)
 
 <br>
 
-<h2> Weekly Reports </h2>
+<h3> Weekly Reports </h3>
 These are the weekly reports that i had submitted to INCF during GSoC period:<br>
 
 <a href="https://drive.google.com/file/d/1DKX11fXbYbpREzT8H0AB5Vdq8xSzLO8u/view?usp=sharing">Week 1 & Week 2</a><br>
