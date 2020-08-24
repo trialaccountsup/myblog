@@ -16,7 +16,8 @@ Here is an example of the website functionality I developed from scratch in this
 
 
 
-### Link to work
+###  Link to work
+
 * [Link to full repository](https://github.com/NeuralSystemsAndSignals/Comp-Engine-Features)<br>
 * [Links for all commits](https://github.com/NeuralSystemsAndSignals/Comp-Engine-Features/commits/master)
 
