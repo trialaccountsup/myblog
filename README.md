@@ -58,8 +58,8 @@ Thus, in order to run user's code safely, we:</em><br><br>
 <ul>
 <li>
   <a href="https://github.com/NeuralSystemsAndSignals/Comp-Engine-Features">Link to full repository</a>
-  <br>
-  <a href="https://github.com/NeuralSystemsAndSignals/Comp-Engine-Features/commits/master">Links for all commits</a>
+  <br></li>
+  <li><a href="https://github.com/NeuralSystemsAndSignals/Comp-Engine-Features/commits/master">Links for all commits</a>
 </li>
 </ul>
 <br>
