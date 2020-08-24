@@ -48,12 +48,13 @@ Thus, in order to run user's code safely, we:</em><br><br>
 <li>Allow the user to import only specific modules that are relevant to scientific data analysis, and thus disabling functionality related to accessing/modifying the system.</li>
 <li>Restricted in-built functions like exec or eval that could be used to harm the system.</li>
 <li>Added a timeout limit so that the system is protected from algorithms falling into an infinite loop. </li>
-<!-- <li>Handled other possible errors like Syntax error, 404 page not found, and Timeout error. -->
+
 </li>
 <br>
 </ul>
 
-## Link to work
+
+<h3>Link to work </h3>
 * [Link to full repository](https://github.com/NeuralSystemsAndSignals/Comp-Engine-Features)
 * [Links for all commits](https://github.com/NeuralSystemsAndSignals/Comp-Engine-Features/commits/master).
 
