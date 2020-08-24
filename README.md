@@ -55,7 +55,7 @@ Thus, in order to run user's code safely, we:</em><br><br>
 
 <h3>Link to work </h3>
 
-* [Link to full repository](https://github.com/NeuralSystemsAndSignals/Comp-Engine-Features)
+* [Link to full repository](https://github.com/NeuralSystemsAndSignals/Comp-Engine-Features)<br>
 * [Links for all commits](https://github.com/NeuralSystemsAndSignals/Comp-Engine-Features/commits/master).
 
 <br>
