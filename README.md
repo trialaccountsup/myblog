@@ -54,14 +54,14 @@ Thus, in order to run user's code safely, we:</em><br><br>
 </ul>
 
 <h3>Link to work </h3>
+<li>
   <a href="https://github.com/NeuralSystemsAndSignals/Comp-Engine-Features">Link to full repository</a>
   <a href="https://github.com/NeuralSystemsAndSignals/Comp-Engine-Features/commits/master">Links for all commits</a>
-* [Link to full repository](https://github.com/NeuralSystemsAndSignals/Comp-Engine-Features)<br>
-* [Links for all commits](https://github.com/NeuralSystemsAndSignals/Comp-Engine-Features/commits/master).
+</li>
 
 <br>
 
-## Weekly Reports
+<h3> Weekly Reports </h3>
 These are the weekly reports that i had submitted to INCF during GSoC period:<br>
 
 <a href="https://drive.google.com/file/d/1DKX11fXbYbpREzT8H0AB5Vdq8xSzLO8u/view?usp=sharing">Week 1 & Week 2</a><br>
