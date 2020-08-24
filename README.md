@@ -55,11 +55,13 @@ Thus, in order to run user's code safely, we:</em><br><br>
 </ul>
 </ol>
 <h3>Link to work </h3>
+<ul>
 <li>
-  <a href="https://github.com/NeuralSystemsAndSignals/Comp-Engine-Features">Link to full repository</a><br>
+  <a href="https://github.com/NeuralSystemsAndSignals/Comp-Engine-Features">Link to full repository</a>
+  <br>
   <a href="https://github.com/NeuralSystemsAndSignals/Comp-Engine-Features/commits/master">Links for all commits</a>
 </li>
-
+</ul>
 <br>
 
 <h3> Weekly Reports </h3>
