@@ -74,9 +74,8 @@ These are the weekly reports that i had submitted to INCF during GSoC period:<br
 <a href="https://drive.google.com/file/d/1PAvLqlv8p7_tm2dWcwDtFrH4Fp-rOYxd/view?usp=sharing">Week 10</a><br>
 <a href="https://drive.google.com/file/d/1PumTCAHoR7FEz21GVpolGOb6o0J14Khd/view?usp=sharing">Week 11</a><br>
 <a href="https://drive.google.com/file/d/10CzCYMVjRRHOa4Khtgkno3oRTgbn06p7/view?usp=sharing">Week 12</a><br>
-<br>
+
 ---
-<br>
 ## Future Work
 Although all the requirements of this project as outlined in the GSoC proposal have been completed, this project represents the important initial steps in the full development of _CompEngine-Features_.
 After the official GSoC period, I plan to contribute to this further development by:
