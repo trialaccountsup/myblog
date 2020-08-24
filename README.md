@@ -65,7 +65,9 @@ Thus, in order to run user's code safely, we:</em><br><br>
   <br>
 </ul>
 </ol>
-### Link to work
+<br>
+
+### Introduction
 * [Link to full repository](https://github.com/NeuralSystemsAndSignals/Comp-Engine-Features)<br>
 * [Links for all commits](https://github.com/NeuralSystemsAndSignals/Comp-Engine-Features/commits/master)
 
