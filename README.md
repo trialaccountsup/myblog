@@ -50,12 +50,13 @@ Thus, in order to run user's code safely, we:</em><br><br>
 <li>Added a timeout limit so that the system is protected from algorithms falling into an infinite loop. </li>
 
 </li>
+
 <br>
 </ul>
-
+</ol>
 <h3>Link to work </h3>
 <li>
-  <a href="https://github.com/NeuralSystemsAndSignals/Comp-Engine-Features">Link to full repository</a>
+  <a href="https://github.com/NeuralSystemsAndSignals/Comp-Engine-Features">Link to full repository</a><br>
   <a href="https://github.com/NeuralSystemsAndSignals/Comp-Engine-Features/commits/master">Links for all commits</a>
 </li>
 
