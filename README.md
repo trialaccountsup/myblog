@@ -52,13 +52,13 @@ Thus, in order to run user's code safely, we:</em><br><br>
 <br>
 </ul>
 
-## Link to work
+### Link to work
 * [Link to full repository](https://github.com/NeuralSystemsAndSignals/Comp-Engine-Features)
-* [Links for all commits](https://github.com/NeuralSystemsAndSignals/Comp-Engine-Features/commits/master).
+* [Links for all commits](https://github.com/NeuralSystemsAndSignals/Comp-Engine-Features/commits/master)
 
 <br>
 
-## Weekly Reports
+### Weekly Reports
 These are the weekly reports that i had submitted to INCF during GSoC period:<br>
 
 <a href="https://drive.google.com/file/d/1DKX11fXbYbpREzT8H0AB5Vdq8xSzLO8u/view?usp=sharing">Week 1 & Week 2</a><br>
@@ -74,7 +74,7 @@ These are the weekly reports that i had submitted to INCF during GSoC period:<br
 <a href="https://drive.google.com/file/d/10CzCYMVjRRHOa4Khtgkno3oRTgbn06p7/view?usp=sharing">Week 12</a><br>
 
 ---
-## Future Work
+### Future Work
 Although all the requirements of this project as outlined in the GSoC proposal have been completed, this project represents the important initial steps in the full development of _CompEngine-Features_.
 After the official GSoC period, I plan to contribute to this further development by:
 
