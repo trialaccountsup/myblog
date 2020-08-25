@@ -23,12 +23,16 @@ Here is an example of the website functionality I developed from scratch in this
 2. Second phase - **Front-end development**  
 &nbsp; _In this phase, I focused on front-end development, that will be used by the user.
 I implemented a range of functionality, including:_  
+  
 
-   * Development of pages for websites, including 'Home', 'How-it-works', 'Contact', 'Preloader', 'Result', 'Syntax error', 'Timeout Error', and '404 Not found'.
+   * Development of pages for websites, including 'Home', 'How-it-works', 'Contact', 'Preloader', 'Result', 'Syntax error', 'Timeout Error', and '404 Not found'.  
+   
    * Interactive results table (functionality shown in the gif below), that allows users to:  
       * Toggle to change representation of results.
       * Download all results in .csv format.
       * Toggle button to view table in full size.
-      * Choose show / hide column from table.![](GIF-200822_154604.gif)
+      * Choose show / hide column from table:![](GIF-200822_154604[1].gif)  
       
-      
+   * Visualization of top 12 results as interactive scatter plots (as visualized in the gif below), which enables users to:  
+      * Hover to see data points.
+      * Zoom each plot or all subplots simultaneously to more clearly visualize the relationships.![](GIF-200822_154727[1].gif)
