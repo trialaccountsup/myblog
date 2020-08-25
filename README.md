@@ -39,5 +39,15 @@ I implemented a range of functionality, including:_
    * Visualization of pairwise relationships between each of the top 12 matches as a correlation heatmap reordered using linkage clustering.  
    
 3. Third phase - **Running user's code securely and with error handling.**  
-&nbsp; _This was one of the major challenges, as executing custom user code on a server could compromise the system.
-Thus, in order to run user's code safely, we:_
+&nbsp; _This was one of the major challenges, as executing custom user code on a server could compromise the system.Thus, in order to run user's code safely, we:_  
+  
+   * Used RestrictedPython to run the user's code in a restricted environment.
+   * Allow the user to import only specific modules that are relevant to scientific data analysis, and thus disabling functionality related to accessing/modifying the system.
+   * Restricted in-built functions like exec or eval that could be used to harm the system.
+   * Added a timeout limit so that the system is protected from algorithms falling into an infinite loop. 
+
+
+### Link to work  
+   * [Link to full repository](#)
+   * [Links for all commits](#)
+
