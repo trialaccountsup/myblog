@@ -35,4 +35,9 @@ I implemented a range of functionality, including:_
       
    * Visualization of top 12 results as interactive scatter plots (as visualized in the gif below), which enables users to:  
       * Hover to see data points.
-      * Zoom each plot or all subplots simultaneously to more clearly visualize the relationships.![](GIF-200822_154727[1].gif)
+      * Zoom each plot or all subplots simultaneously to more clearly visualize the relationships.![](GIF-200822_154727[1].gif)  
+   * Visualization of pairwise relationships between each of the top 12 matches as a correlation heatmap reordered using linkage clustering.  
+   
+3. Third phase - **Running user's code securely and with error handling.**  
+&nbsp; _This was one of the major challenges, as executing custom user code on a server could compromise the system.
+Thus, in order to run user's code safely, we:_
