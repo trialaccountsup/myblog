@@ -13,6 +13,9 @@ This output helps the user to understand connections between their method and th
 
 Here is an example of the website functionality I developed from scratch in this GSoC project:![](GIF-200821_144005.gif)
 
+### What was done
+Since the project needs to be developed from scratch, I have broken down the development process into three parts:
+
 1. First phase - **Backend / logic development**  
 &nbsp; _I developed a series of functions to enable successful execution of the user's code, and to perform systematic comparison of its output to that of existing algorithms:_  
 
