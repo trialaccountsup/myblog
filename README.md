@@ -48,8 +48,8 @@ I implemented a range of functionality, including:_
 
 
 ### Link to work  
-   * [Link to full repository](#)
-   * [Links for all commits](#)
+   * [Link to full repository](https://github.com/NeuralSystemsAndSignals/Comp-Engine-Features)
+   * [Links for all commits](https://github.com/NeuralSystemsAndSignals/Comp-Engine-Features/commits/master)
 
 
 ### Weekly Report
